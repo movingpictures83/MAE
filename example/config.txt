@@ -1,0 +1,2 @@
+Prefix plugins/MAE/example/
+Plugin MAE inputfile output/ outputfile none
